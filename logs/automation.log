@@ -1,0 +1,8 @@
+13:15:43:640 [main] INFO  test.UserTests - **********Create user*************
+13:15:46:128 [main] INFO  test.UserTests - ************User created*******************
+13:15:46:135 [main] INFO  test.UserTests - **********Reading user info *************
+13:15:47:292 [main] INFO  test.UserTests - **********User information read*************
+13:15:47:293 [main] INFO  test.UserTests - **********update user*************
+13:15:49:583 [main] INFO  test.UserTests - **********User updated*************
+13:15:49:584 [main] INFO  test.UserTests - **********delete user*************
+13:15:50:720 [main] INFO  test.UserTests - **********User deleted*************

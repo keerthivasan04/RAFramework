@@ -42,9 +42,9 @@ public class UserEndPoints {
         return response;
     }
 
-    public static Response deleteUser (String username) {
+    public static Response deleteUser(String username) {
         Response response = given()
-                .pathParam("username",username)
+                .pathParam("username", username)
                 .when().delete(delete_url);
         return response;
     }

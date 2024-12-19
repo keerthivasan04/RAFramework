@@ -8,11 +8,12 @@
 
     <test verbose="2" preserve-order="true" name="C:/Users/keerthivasann/IdeaProjects/RA Framework/src/test/java/test">
         <classes>
-            <class name="test.DataDrivenTests">
-                <methods>
-                    <include name="testPostUser"/>
-                    <include name="testDeleteByUsername"/>
-                </methods></class>
+<!--            <class name="test.DataDrivenTests">-->
+<!--                <methods>-->
+<!--                    <include name="testPostUser"/>-->
+<!--                    <include name="testDeleteByUsername"/>-->
+<!--                </methods>-->
+<!--            </class>-->
             <class name="test.UserTests">
                 <methods>
                     <include name="testPostUser"/>

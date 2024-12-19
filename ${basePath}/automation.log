@@ -1,0 +1,24 @@
+11:54:44:231 [main] INFO  test.UserTests - **********Create user*************
+11:54:46:766 [main] INFO  test.UserTests - ************User created*******************
+11:54:46:773 [main] INFO  test.UserTests - **********Reading user info *************
+11:54:48:018 [main] INFO  test.UserTests - **********User information read*************
+11:54:48:019 [main] INFO  test.UserTests - **********update user*************
+11:54:50:550 [main] INFO  test.UserTests - **********User updated*************
+11:54:50:552 [main] INFO  test.UserTests - **********delete user*************
+11:54:51:829 [main] INFO  test.UserTests - **********User deleted*************
+11:55:47:659 [main] INFO  test.UserTests - **********Create user*************
+11:55:50:149 [main] INFO  test.UserTests - ************User created*******************
+11:55:50:157 [main] INFO  test.UserTests - **********Reading user info *************
+11:55:51:449 [main] INFO  test.UserTests - **********User information read*************
+11:55:51:450 [main] INFO  test.UserTests - **********update user*************
+11:55:54:000 [main] INFO  test.UserTests - **********User updated*************
+11:55:54:001 [main] INFO  test.UserTests - **********delete user*************
+11:55:55:230 [main] INFO  test.UserTests - **********User deleted*************
+12:09:52:967 [main] INFO  test.UserTests - **********Create user*************
+12:09:56:676 [main] INFO  test.UserTests - ************User created*******************
+12:09:56:686 [main] INFO  test.UserTests - **********Reading user info *************
+12:09:57:992 [main] INFO  test.UserTests - **********User information read*************
+12:09:57:994 [main] INFO  test.UserTests - **********update user*************
+12:10:00:561 [main] INFO  test.UserTests - **********User updated*************
+12:10:00:564 [main] INFO  test.UserTests - **********delete user*************
+12:10:01:981 [main] INFO  test.UserTests - **********User deleted*************
