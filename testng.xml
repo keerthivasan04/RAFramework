@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite name="All Test Suite">
-
     <listeners>
         <listener class-name="utilities.ExtentReportUtility"></listener>
     </listeners>
-
     <test verbose="2" preserve-order="true" name="C:/Users/keerthivasann/IdeaProjects/RA Framework/src/test/java/test">
         <classes>
 <!--            <class name="test.DataDrivenTests">-->
@@ -14,7 +12,15 @@
 <!--                    <include name="testDeleteByUsername"/>-->
 <!--                </methods>-->
 <!--            </class>-->
-            <class name="test.UserTests">
+<!--            <class name="test.UserTests">-->
+<!--                <methods>-->
+<!--                    <include name="testPostUser"/>-->
+<!--                    <include name="testGetUserWithName"/>-->
+<!--                    <include name="testUpdateUserWithName"/>-->
+<!--                    <include name="deleteUserByName"/>-->
+<!--                </methods>-->
+<!--            </class>-->
+            <class name="test.UserTestsWithProperties">
                 <methods>
                     <include name="testPostUser"/>
                     <include name="testGetUserWithName"/>

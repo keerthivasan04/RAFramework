@@ -1,8 +1,16 @@
-13:15:43:640 [main] INFO  test.UserTests - **********Create user*************
-13:15:46:128 [main] INFO  test.UserTests - ************User created*******************
-13:15:46:135 [main] INFO  test.UserTests - **********Reading user info *************
-13:15:47:292 [main] INFO  test.UserTests - **********User information read*************
-13:15:47:293 [main] INFO  test.UserTests - **********update user*************
-13:15:49:583 [main] INFO  test.UserTests - **********User updated*************
-13:15:49:584 [main] INFO  test.UserTests - **********delete user*************
-13:15:50:720 [main] INFO  test.UserTests - **********User deleted*************
+16:00:09:923 [main] INFO  test.UserTestsWithProperties - **********Create user*************
+16:00:12:202 [main] INFO  test.UserTestsWithProperties - ************User created*******************
+16:00:12:210 [main] INFO  test.UserTestsWithProperties - **********Reading user info *************
+16:00:13:407 [main] INFO  test.UserTestsWithProperties - **********User information read*************
+16:00:13:408 [main] INFO  test.UserTestsWithProperties - **********update user*************
+16:00:15:891 [main] INFO  test.UserTestsWithProperties - **********User updated*************
+16:00:15:892 [main] INFO  test.UserTestsWithProperties - **********delete user*************
+16:00:17:045 [main] INFO  test.UserTestsWithProperties - **********User deleted*************
+16:18:05:155 [main] INFO  test.UserTestsWithProperties - **********Create user*************
+16:18:07:927 [main] INFO  test.UserTestsWithProperties - ************User created*******************
+16:18:07:938 [main] INFO  test.UserTestsWithProperties - **********Reading user info *************
+16:18:09:245 [main] INFO  test.UserTestsWithProperties - **********User information read*************
+16:18:09:246 [main] INFO  test.UserTestsWithProperties - **********update user*************
+16:18:11:973 [main] INFO  test.UserTestsWithProperties - **********User updated*************
+16:18:11:975 [main] INFO  test.UserTestsWithProperties - **********delete user*************
+16:18:13:304 [main] INFO  test.UserTestsWithProperties - **********User deleted*************
